@@ -8,7 +8,7 @@ We have three datasets, FEMNIST, CIFAR-10, and Shakespeare, which you should dow
 
 # Code
 
-We have prepared nine Jupiter notebook-style codes for the three datasets: 'Centralized', 'Local Data Only', 'FedAvg', 'HypCluster', 'MAAPER', 'Federated Mutual Learning', 'pFedMe', and 'FedMe'.
+We have prepared eight Jupiter notebook-style codes for the three datasets: 'Centralized', 'Local Data Only', 'FedAvg', 'HypCluster', 'MAAPER', 'Federated Mutual Learning', 'pFedMe', and 'FedMe'.
 'FEMNIST', 'CIFAR-10', and 'Shakespeare' contain the respective codes.
 Note that the hyperparameters in these codes are not tuned, so please change the value of each and run them.
 
