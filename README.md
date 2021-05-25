@@ -12,3 +12,8 @@ We have prepared nine Jupiter notebook-style codes for the three datasets: 'Cent
 'FEMNIST', 'CIFAR-10', and 'Shakespeare' contain the respective codes.
 Note that the hyperparameters in these codes are not tuned, so please change the value of each and run them.
 
+# Client best model
+
+For FedMe, we have included the results of tuning the model in 'Local Data Only' for each client in the 'client best model' folder.
+If you run the codes with a different number of clients or different seed values, please create and modify the 'client best model' by yourself.
+
