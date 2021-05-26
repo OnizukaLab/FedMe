@@ -1,6 +1,6 @@
 # FedMe: Federated Learning via Model Exchange
 
-This is the code accompanying the CIKM 2021 paper "FedMe: Federated Learning via Model Exchange" 
+This is the code accompanying "FedMe: Federated Learning via Model Exchange" 
 
 # Dataset
 
