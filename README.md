@@ -4,11 +4,11 @@ This is the code accompanying "FedMe: Federated Learning via Model Exchange"
 
 # Dataset
 
-We have three datasets, FEMNIST, CIFAR-10, and Shakespeare, which you should download from 'data' when running with FEMNIST and Shakespeare.
+We have three datasets, FEMNIST, CIFAR-10, and Shakespeare. You should download datasets and put them to `data` (see ReadMe in `data`).
 
 # Code
 
-We have prepared eight Jupiter notebook-style codes for the three datasets: 'Centralized', 'Local Data Only', 'FedAvg', 'HypCluster', 'MAAPER', 'Federated Mutual Learning', 'pFedMe', and 'FedMe'.
+We have prepared eight Jupyter notebook for the three datasets: 'Centralized', 'Local Data Only', 'FedAvg', 'HypCluster', 'MAAPER', 'Federated Mutual Learning', 'pFedMe', and 'FedMe'.
 'FEMNIST', 'CIFAR-10', and 'Shakespeare' contain the respective codes.
 Note that the hyperparameters in these codes are not tuned, so please change the value of each and run them.
 
