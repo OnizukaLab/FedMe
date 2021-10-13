@@ -10,7 +10,7 @@ We have three datasets, FEMNIST, CIFAR-10, and Shakespeare. You should download 
 
 We have prepared eight Jupyter notebook for the three datasets: 'Centralized', 'Local Data Only', 'FedAvg', 'HypCluster', 'MAAPER', 'Federated Mutual Learning', 'pFedMe', and 'FedMe'.
 'FEMNIST', 'CIFAR-10', and 'Shakespeare' contain the respective codes.
-Note that the hyperparameters in these codes are not tuned, so please change the value of each and run them.
+Hyperparameters that we used are in our source codes.
 
 # Client best model
 
